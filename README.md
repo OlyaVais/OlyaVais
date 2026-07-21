@@ -65,28 +65,59 @@
 ---
 ## 🚀 Мои проекты
 
-### 🐧 SOC Lab
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlyaVais&repo=soc-lab&theme=radical)](https://github.com/OlyaVais/soc-lab)
-> Домашняя лаборатория с ELK Stack + Suricata для мониторинга сетевого трафика. Настроены кастомные правила детекции.
+<div align="center">
 
----
+<a href="https://github.com/OlyaVais/soc-lab" style="text-decoration: none;">
+  <div style="display: inline-block; background: linear-gradient(145deg, #1a1e2c, #2d3348); border-radius: 16px; padding: 20px; margin: 10px; width: 280px; box-shadow: 0 8px 24px rgba(0,255,100,0.15); border: 1px solid #00ff41; transition: all 0.3s; hover: transform: scale(1.02);">
+    <div style="font-size: 40px; margin-bottom: 10px;">🐧</div>
+    <h3 style="color: #00ff41; margin: 0;">SOC Lab</h3>
+    <p style="color: #b0b8c5; font-size: 14px;">Домашняя лаборатория с ELK Stack + Suricata для мониторинга трафика.</p>
+    <div style="margin-top: 12px;">
+      <span style="background: #2d3748; color: #00ff41; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin: 4px;">ELK</span>
+      <span style="background: #2d3748; color: #00ff41; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin: 4px;">Suricata</span>
+      <span style="background: #2d3748; color: #00ff41; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin: 4px;">Python</span>
+    </div>
+  </div>
+</a>
 
-### 🔍 OSINT Tool
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlyaVais&repo=osint-tool&theme=radical)](https://github.com/OlyaVais/osint-tool)
-> Сбор информации о доменах через Shodan, theHarvester и WHOIS. Обнаружение открытых портов и устаревших сертификатов.
+<a href="https://github.com/OlyaVais/osint-tool" style="text-decoration: none;">
+  <div style="display: inline-block; background: linear-gradient(145deg, #1a1e2c, #2d3348); border-radius: 16px; padding: 20px; margin: 10px; width: 280px; box-shadow: 0 8px 24px rgba(255,165,0,0.15); border: 1px solid #ffa500; transition: all 0.3s; hover: transform: scale(1.02);">
+    <div style="font-size: 40px; margin-bottom: 10px;">🔍</div>
+    <h3 style="color: #ffa500; margin: 0;">OSINT Tool</h3>
+    <p style="color: #b0b8c5; font-size: 14px;">Сбор информации о доменах через Shodan, theHarvester и WHOIS.</p>
+    <div style="margin-top: 12px;">
+      <span style="background: #2d3748; color: #ffa500; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin: 4px;">Python</span>
+      <span style="background: #2d3748; color: #ffa500; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin: 4px;">Shodan</span>
+      <span style="background: #2d3748; color: #ffa500; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin: 4px;">WHOIS</span>
+    </div>
+  </div>
+</a>
 
----
+<a href="https://github.com/OlyaVais/htb-writeups" style="text-decoration: none;">
+  <div style="display: inline-block; background: linear-gradient(145deg, #1a1e2c, #2d3348); border-radius: 16px; padding: 20px; margin: 10px; width: 280px; box-shadow: 0 8px 24px rgba(100,100,255,0.15); border: 1px solid #6464ff; transition: all 0.3s; hover: transform: scale(1.02);">
+    <div style="font-size: 40px; margin-bottom: 10px;">📝</div>
+    <h3 style="color: #6464ff; margin: 0;">HTB Writeups</h3>
+    <p style="color: #b0b8c5; font-size: 14px;">Решения 12 машин с HackTheBox с подробными отчётами.</p>
+    <div style="margin-top: 12px;">
+      <span style="background: #2d3748; color: #6464ff; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin: 4px;">Markdown</span>
+      <span style="background: #2d3748; color: #6464ff; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin: 4px;">Bash</span>
+    </div>
+  </div>
+</a>
 
-### 📝 HTB Writeups
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlyaVais&repo=htb-writeups&theme=radical)](https://github.com/OlyaVais/htb-writeups)
-> Решения 12 машин с HackTheBox с подробными отчётами и командами.
+<a href="https://github.com/OlyaVais/thm-soc-path" style="text-decoration: none;">
+  <div style="display: inline-block; background: linear-gradient(145deg, #1a1e2c, #2d3348); border-radius: 16px; padding: 20px; margin: 10px; width: 280px; box-shadow: 0 8px 24px rgba(255,0,100,0.15); border: 1px solid #ff0064; transition: all 0.3s; hover: transform: scale(1.02);">
+    <div style="font-size: 40px; margin-bottom: 10px;">🔐</div>
+    <h3 style="color: #ff0064; margin: 0;">TryHackMe Paths</h3>
+    <p style="color: #b0b8c5; font-size: 14px;">Пройденные пути SOC Level 1 и Pre‑Security на TryHackMe.</p>
+    <div style="margin-top: 12px;">
+      <span style="background: #2d3748; color: #ff0064; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin: 4px;">Linux</span>
+      <span style="background: #2d3748; color: #ff0064; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin: 4px;">Wireshark</span>
+    </div>
+  </div>
+</a>
 
----
-
-### 🔐 TryHackMe Paths
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlyaVais&repo=thm-soc-path&theme=radical)](https://github.com/OlyaVais/thm-soc-path)
-> Пройденные пути SOC Level 1 и Pre‑Security на TryHackMe.
-
+</div>
 ---
 
 ### 📫 Связаться со мной

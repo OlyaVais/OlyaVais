@@ -10,6 +10,10 @@
 
 ---
 
+![TryHackMe Profile](https://raw.githubusercontent.com/OlyaVais/OlyaVais/main/assets/thm_propic.png)
+
+---
+
 ### 📊 GitHub Статистика
 
 <!-- Карточка с общей статистикой -->

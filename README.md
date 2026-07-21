@@ -122,7 +122,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/OlyaVais">
-    <img src="https://img.shields.io/badge/TryHackMe-OlyaVais-2CA5E0?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/OlyaVais/OlyaVais/main/assets/thm_propic.png" />
   </a>
 </p>
 

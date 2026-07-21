@@ -63,6 +63,31 @@
 - **TryHackMe: SOC Level 1 Path** (завершён)
 
 ---
+## 🚀 Мои проекты
+
+### 🐧 SOC Lab
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlyaVais&repo=soc-lab&theme=radical)](https://github.com/OlyaVais/soc-lab)
+> Домашняя лаборатория с ELK Stack + Suricata для мониторинга сетевого трафика. Настроены кастомные правила детекции.
+
+---
+
+### 🔍 OSINT Tool
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlyaVais&repo=osint-tool&theme=radical)](https://github.com/OlyaVais/osint-tool)
+> Сбор информации о доменах через Shodan, theHarvester и WHOIS. Обнаружение открытых портов и устаревших сертификатов.
+
+---
+
+### 📝 HTB Writeups
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlyaVais&repo=htb-writeups&theme=radical)](https://github.com/OlyaVais/htb-writeups)
+> Решения 12 машин с HackTheBox с подробными отчётами и командами.
+
+---
+
+### 🔐 TryHackMe Paths
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlyaVais&repo=thm-soc-path&theme=radical)](https://github.com/OlyaVais/thm-soc-path)
+> Пройденные пути SOC Level 1 и Pre‑Security на TryHackMe.
+
+---
 
 ### 📫 Связаться со мной
 

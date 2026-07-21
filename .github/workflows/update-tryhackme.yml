@@ -1,0 +1,18 @@
+name: Update TryHackMe Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Запускается автоматически каждый день в полночь
+  workflow_dispatch:       # Позволяет запустить вручную (кнопкой)
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Fetch and update TryHackMe badge
+        uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          username: "OlyaVais"          # <-- СЮДА ТВОЙ ЛОГИН В TRYHACKME
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

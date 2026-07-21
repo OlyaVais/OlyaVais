@@ -29,6 +29,8 @@
   <img src="https://streak-stats.demolab.com/?user=OlyaVais&theme=radical" width="60%" />
 </p>
 
+![TryHackMe Profile](https://raw.githubusercontent.com/OlyaVais/OlyaVais/main/assets/thm_propic.png)
+
 ---
 
 ### 🛠 Ключевые навыки

@@ -1,54 +1,55 @@
-# 👋 Привет! Меня зовут Антипова Ольга
+# 👋 Привет, меня зовут Ольга Антипова
 
-## 🛡️ Application Security Engineer 
+## 🛡️ Junior SOC‑аналитик | Python, Splunk, Linux
 
 ---
 
 ### 🔥 Обо мне
 
-Специалист по безопасности приложений с опытом в поиске уязвимостей, автоматизации безопасности и внедрении практик DevSecOps.
-
-- 🔍 Ищу уязвимости в веб-приложениях и API (OWASP Top 10, SSRF, IDOR, RCE)
-- ⚙️ Строю безопасные CI/CD пайплайны с SAST/DAST
-- 🐍 Пишу на Python для автоматизации задач безопасности
-- 🎯 Участвую в Bug Bounty программах
+Начинающий SOC-аналитик с практическим опытом мониторинга инцидентов в учебном SOC (6 месяцев). Развернул домашнюю лабораторию: ELK Stack + Suricata для анализа сетевого трафика. Решил 85 задач на TryHackMe. Владею Python для автоматизации парсинга логов.
 
 ---
 
-### 🛠 Технологии и инструменты
+### 🛠 Ключевые навыки
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
----
-
-### 📊 GitHub Статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OlyaVais&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaVaise&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
+| Категория | Инструменты и технологии |
+|-----------|--------------------------|
+| **Мониторинг и SIEM** | Splunk (базовый SPL), ELK Stack, Suricata |
+| **Сетевой анализ** | Wireshark, Nmap, tcpdump |
+| **Скриптинг** | Python (парсинг логов, работа с API), Bash |
+| **ОС** | Linux (Ubuntu, Kali), Windows Server (Event Log, AD) |
+| **Фреймворки** | MITRE ATT&CK (знание основных тактик и техник) |
+| **Языки** | Русский (родной), Английский (B1 — чтение документации) |
 
 ---
 
-### 🏆 Достижения
+### 💼 Опыт / Pet‑проекты
 
-![trophy](https://github-profile-trophy.vercel.app/?username=OlyaVais&theme=radical&no-frame=true&row=2&column=4)
+**Домашняя SOC-лаборатория**  
+Развернул ELK Stack + Suricata для мониторинга сетевого трафика. Настроил кастомные правила детекции, написал парсер логов на Python. Оформил отчёт на GitHub (ссылка).
+
+**OSINT-исследование тестовых доменов**  
+Провёл сбор информации через Shodan, theHarvester и WHOIS. Обнаружил открытые порты и устаревшие SSL-сертификаты. Результаты оформил в репозитории.
+
+**TryHackMe / HackTheBox**  
+Решено 12 машин на HackTheBox (5 Easy, 7 Medium). На TryHackMe — топ‑5% по рейтингу, пройдены пути SOC Level 1 и Pre‑Security.
 
 ---
+
+### 📜 Образование и сертификаты
+
+- **CompTIA Security+** (в процессе подготовки)  
+- **TryHackMe: SOC Level 1 Path** (завершён)  
+
+---
+
 
 ### 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой@email.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[твой_ник])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[твой_ник])  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[твоя_почта])  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[твой_ник])
 
 ---
 

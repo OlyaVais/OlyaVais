@@ -118,13 +118,9 @@
 
 ---
 
-### 🎯 Мой прогресс в TryHackMe
+## 🎯 TryHackMe
 
-<p align="center">
-  <a href="https://tryhackme.com/p/OlyaVais">
-    <img src="https://raw.githubusercontent.com/OlyaVais/OlyaVais/main/assets/thm_propic.png" />
-  </a>
-</p>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-olgakesha59-2CA5E0?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/olgakesha59)
 
 ---
 

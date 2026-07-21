@@ -32,15 +32,15 @@
 ### 📊 GitHub Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твой_username&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_username&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OlyaVais&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaVaise&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ---
 
 ### 🏆 Достижения
 
-![trophy](https://github-profile-trophy.vercel.app/?username=твой_username&theme=radical&no-frame=true&row=2&column=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=OlyaVais&theme=radical&no-frame=true&row=2&column=4)
 
 ---
 

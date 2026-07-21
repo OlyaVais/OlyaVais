@@ -57,15 +57,8 @@
 
 
 
-https://visitor-badge.laobi.icu/badge?page_id=OlyaVais.OlyaVais
+## 📊 Статистика
 
-https://github-readme-stats.vercel.app/api/wakatime?username=OlyaVais
+![Stats](https://github-readme-stats.vercel.app/api?username=OlyaVais&show_icons=true&theme=radical)
 
-https://github-readme-streak-stats.herokuapp.com/?user=OlyaVais&theme=radical
-
-
-## 📊 Metrics Dashboard
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OlyaVais/OlyaVais/master/metrics.svg" alt="Metrics" width="100%" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaVais&layout=compact&theme=radical)

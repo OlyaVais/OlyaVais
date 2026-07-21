@@ -23,6 +23,12 @@
 
 ---
 
+## 🎯 TryHackMe
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-olgakesha59-2CA5E0?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/olgakesha59)
+
+---
+
 ### 🛠 Ключевые навыки
 
 | Категория | Инструменты и технологии |
@@ -115,12 +121,6 @@
 
 - **CompTIA Security+** (в процессе подготовки)
 - **TryHackMe: SOC Level 1 Path** (завершён)
-
----
-
-## 🎯 TryHackMe
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-olgakesha59-2CA5E0?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/olgakesha59)
 
 ---
 

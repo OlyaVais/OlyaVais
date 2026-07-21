@@ -14,5 +14,5 @@ jobs:
       - name: Fetch and update TryHackMe badge
         uses: p4p1/tryhackme-badge-workflow@main
         with:
-          username: "OlyaVais"          # <-- СЮДА ТВОЙ ЛОГИН В TRYHACKME
+          username: "Olgakesha59"          # <-- СЮДА ТВОЙ ЛОГИН В TRYHACKME
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

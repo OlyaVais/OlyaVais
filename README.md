@@ -12,9 +12,21 @@
 
 ### 📊 GitHub Статистика
 
+<!-- Карточка с общей статистикой -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OlyaVais&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaVais&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlyaVais&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Количество коммитов, PR, issues и т.д. -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OlyaVais&theme=radical" width="48%" />
+  <!-- Языки программирования -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlyaVais&theme=radical" width="48%" />
+</p>
+
+<!-- Streak (непрерывная активность) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=OlyaVais&theme=radical" width="60%" />
 </p>
 
 ---

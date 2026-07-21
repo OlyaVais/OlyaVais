@@ -54,3 +54,18 @@
 ---
 
 > ⚡ *«Безопасность — это не продукт, а процесс»* — Брюс Шнайер
+
+
+
+https://visitor-badge.laobi.icu/badge?page_id=OlyaVais.OlyaVais
+
+https://github-readme-stats.vercel.app/api/wakatime?username=OlyaVais
+
+https://github-readme-streak-stats.herokuapp.com/?user=OlyaVais&theme=radical
+
+
+## 📊 Metrics Dashboard
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OlyaVais/OlyaVais/master/metrics.svg" alt="Metrics" width="100%" />
+</div>
